@@ -63,3 +63,21 @@ Para saber si estamos actualizados
 
 git pull
 git status
+
+Para restablecer un archivo
+
+1. git log --oneline
+2. git restore --source CODE NOMBREDEARCHIVO
+2  git commit .
+3 git push
+
+
+Camino 1: crear una branch para cada clase del curso con el comando:
+
+git checkout -b git branch nombre-de-la-branch
+
+Con este comando, crearás una nueva branch y cambiarás automáticamente a ella para dar inicio al proceso de desarrollo.
+
+git branch nombre-de-la-branch
+
+Esta es otra forma de crear una branch. En este caso, ella es creada, pero no hay cambio automático a esta nueva ramificación. Para eso, puedes usar el comando git switch nombre-de-la-branch.
