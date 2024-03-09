@@ -47,3 +47,6 @@ Esto trae el hash seguido del mensaje de commit. Para saber más formas de mostr
 Genial, ¿no? ¿Qué pasaría si te dijeras que hay muchos otros parámetros que podemos pasar en git log? Si deseas saber más sobre cómo mostrar tu información de commit, puedes consultar a este enlace.
 
 https://devhints.io/git-log
+
+
+https://www.aluracursos.com/blog/open-source-una-breve-introduccion
