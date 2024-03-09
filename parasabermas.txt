@@ -81,3 +81,11 @@ Con este comando, crearás una nueva branch y cambiarás automáticamente a ella
 git branch nombre-de-la-branch
 
 Esta es otra forma de crear una branch. En este caso, ella es creada, pero no hay cambio automático a esta nueva ramificación. Para eso, puedes usar el comando git switch nombre-de-la-branch.
+
+
+Utilizamos los comandos: git switch main y git merge title.
+
+
+¡Excelente! De esta forma con el git switch volvemos a la branch principal y luego hacemos el merge poniendo todo lo que estaba en la branch title en la branch main.
+
+git log --online
