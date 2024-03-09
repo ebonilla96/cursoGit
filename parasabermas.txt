@@ -50,3 +50,16 @@ https://devhints.io/git-log
 
 
 https://www.aluracursos.com/blog/open-source-una-breve-introduccion
+
+
+
+Para actualizar archivos en Github
+
+1. git add o git add . para mas de 2 archivos
+2. git commit -m  "texto"      Solo actualiza el archivo, pero   git commmit . -m "texto"    para todo el proyecto
+3  git push
+
+Para saber si estamos actualizados
+
+git pull
+git status
