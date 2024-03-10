@@ -68,7 +68,7 @@ Para restablecer un archivo
 
 1. git log --oneline
 2. git restore --source CODE NOMBREDEARCHIVO
-2  git commit .
+2  git commit .  o   git commit -m "mensaje"
 3 git push
 
 
@@ -89,3 +89,13 @@ Utilizamos los comandos: git switch main y git merge title.
 ¡Excelente! De esta forma con el git switch volvemos a la branch principal y luego hacemos el merge poniendo todo lo que estaba en la branch title en la branch main.
 
 git log --online
+
+
+
+git merge para mezclar
+
+
+https://www.aluracursos.com/blog/iniciando-repositorio-con-git
+https://www.aluracursos.com/blog/creando-repositorio-remoto-en-github?utm_source=gnarus&utm_medium=timeline
+https://www.aluracursos.com/blog/clonando-un-repositorio-remoto?utm_source=gnarus&utm_medium=timeline
+
